@@ -1,6 +1,6 @@
 # ma1805-mini-portfolio
 
-This mini portfolio presents 4 main principles of JaveScript.
+This mini portfolio presents 4 main principles of JavaScript.
 
 Firstly, we go through drawing techniques that can be used to create pieces of art.
 The second principle goes through a method that can be used to create movement.
